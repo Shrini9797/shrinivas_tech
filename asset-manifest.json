@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./static/css/main.260c56d7.css",
-    "main.js": "./static/js/main.426ad867.js",
-    "static/js/415.4d6acbeb.chunk.js": "./static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
-    "static/media/leaf.png": "./static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "./static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "./static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "./static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/Shrinivas_AB_SE_Resume.pdf": "./static/media/Shrinivas_AB_SE_Resume.38e17bb3df4c24fe48d4.pdf",
-    "static/media/blog.png": "./static/media/blog.fb8ab7f271a937d5fc01.png",
-    "static/media/home-main.svg": "./static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "./static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/chatify.png": "./static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/home-bg.jpg": "./static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "./static/media/avatar.d5f0b9455683b48e6361389817c58fcd.svg",
-    "static/media/pre.svg": "./static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "./index.html",
-    "main.260c56d7.css.map": "./static/css/main.260c56d7.css.map",
-    "main.426ad867.js.map": "./static/js/main.426ad867.js.map",
-    "415.4d6acbeb.chunk.js.map": "./static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/shrinivas_tech/static/css/main.c88849d2.css",
+    "main.js": "/shrinivas_tech/static/js/main.16052c7d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/shrinivas_tech/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/shrinivas_tech/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/shrinivas_tech/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/shrinivas_tech/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/shrinivas_tech/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/shrinivas_tech/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Shrinivas_AB_SE_Resume.pdf": "/shrinivas_tech/static/media/Shrinivas_AB_SE_Resume.38e17bb3df4c24fe48d4.pdf",
+    "static/media/blog.png": "/shrinivas_tech/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/shrinivas_tech/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/shrinivas_tech/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/shrinivas_tech/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/shrinivas_tech/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/shrinivas_tech/static/media/avatar.d5f0b9455683b48e6361389817c58fcd.svg",
+    "static/media/pre.svg": "/shrinivas_tech/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/shrinivas_tech/index.html",
+    "main.c88849d2.css.map": "/shrinivas_tech/static/css/main.c88849d2.css.map",
+    "main.16052c7d.js.map": "/shrinivas_tech/static/js/main.16052c7d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/shrinivas_tech/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/shrinivas_tech/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.260c56d7.css",
-    "static/js/main.426ad867.js"
+    "static/css/main.c88849d2.css",
+    "static/js/main.16052c7d.js"
   ]
 }
